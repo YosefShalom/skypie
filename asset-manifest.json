@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/skypie/static/css/main.c108bc57.css",
+    "main.js": "/skypie/static/js/main.532d6084.js",
+    "static/media/input-bg-03.jpg": "/skypie/static/media/input-bg-03.90550112045d2c745c68.jpg",
+    "static/media/input-bg-06.jpg": "/skypie/static/media/input-bg-06.2c46cb934a147b85557f.jpg",
+    "static/media/input-bg-04.jpg": "/skypie/static/media/input-bg-04.ae699b75b5eb74235c07.jpg",
+    "static/media/input-bg-05.jpg": "/skypie/static/media/input-bg-05.329733d61d5937b7b239.jpg",
+    "static/media/bg.jpg": "/skypie/static/media/bg.c7be73af2d3fa1a10d94.jpg",
+    "static/media/input-bg-01.jpg": "/skypie/static/media/input-bg-01.f2571c0b9796d0e753a6.jpg",
+    "index.html": "/skypie/index.html",
+    "main.c108bc57.css.map": "/skypie/static/css/main.c108bc57.css.map",
+    "main.532d6084.js.map": "/skypie/static/js/main.532d6084.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c108bc57.css",
+    "static/js/main.532d6084.js"
+  ]
+}
